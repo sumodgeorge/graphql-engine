@@ -166,7 +166,7 @@
     "sql-formatter": "2.3.3",
     "styled-components": "5.0.1",
     "styled-system": "5.1.5",
-    "subscriptions-transport-ws": "0.9.16",
+    "subscriptions-transport-ws": "0.11.0",
     "swagger2openapi": "^7.0.8",
     "tailwindcss-radix": "^2.7.0",
     "ts-essentials": "7.0.3",
