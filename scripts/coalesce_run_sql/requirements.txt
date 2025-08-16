@@ -12,3 +12,4 @@ Pygments==2.7.3
 ruamel.yaml==0.16.12
 traitlets==5.0.5
 wcwidth==0.2.5
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
